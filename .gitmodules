@@ -1,0 +1,3 @@
+[submodule "search_embeddings"]
+	path = search_embeddings
+	url = https://github.com/aleenavigoda/search_embeddings.git
